@@ -58,9 +58,9 @@ social:
 #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,4 +74,4 @@ email: ""
 
 I am an Assistant Professor of Business Administration at the Haas School of Business at the University of California Berkeley. My research interests include social networks, medical sociology, health care economics and the sociology of science. I received my Ph.D. from the Department of Sociology at Columbia University. 
 
-In my research I examine processes that should be governed by commonly accepted principles, yet deviate from these principles. For example, I have studied why executive compensation deviates from what an efficient market would pay, why grant funding deviates from meritocratic principles, and why variation in the use of prescription drugs is not simply caused by health status. Most of my current research similar types of processes in the contexts of health care and science production.
+In my research I examine processes that should be governed by rational principles, yet deviate from these principles. For example, I have studied why executive compensation deviates from what an efficient market would pay, why grant funding deviates from meritocratic principles, and why variation in the use of prescription drugs is not simply caused by health status. Most of my current research similar types of processes in the contexts of health care and science production.
