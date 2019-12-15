@@ -53,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=vSbBL9kAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +67,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I am an Assistant Professor of Business Administration at the Haas School of Business at the University of California Berkeley. My research interests include social networks, medical sociology, health care economics and the sociology of science. I received my Ph.D. from the Department of Sociology at Columbia University. 
