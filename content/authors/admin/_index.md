@@ -23,7 +23,7 @@ organizations:
 interests:
 - Social Networks
 - Medical Sociology
-- Sociology of Science
+- Science of Science
 - Quantative methods
 
 education:
