@@ -27,9 +27,9 @@ interests:
 - Quantative methods
 
 education:
-  - PhD in Sociology
-    institution: Columbia University
-    year: 2015
+- PhD in Sociology
+  institution: Columbia University
+  year: 2015
 #   - course: MEng in Artificial Intelligence
 #     institution: Massachusetts Institute of Technology
 #     year: 2009
