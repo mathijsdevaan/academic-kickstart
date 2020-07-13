@@ -69,7 +69,7 @@ user_groups = ["Researchers", "Visitors"]
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/cv.pdf"
+   link = "img/cv_de_vaan.pdf"
 
 +++
 I am an [Assistant Professor of Business Administration at the Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. My research interests include social networks, medical sociology and the sociology of science. I received my Ph.D. from the Department of Sociology at Columbia University.
