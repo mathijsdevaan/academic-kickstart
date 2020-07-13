@@ -47,7 +47,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:mdevaan@berkeley.edu".
+  link = "mailto:mdevaan@berkeley.edu"
 
 [[social]]
   icon = "linkedin"
