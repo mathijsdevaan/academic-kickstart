@@ -72,5 +72,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "img/cv_de_vaan.pdf"
 
 +++
-I am an [Assistant Professor of Business Administration at the Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. My research interests include social networks, medical sociology and the sociology of science. I received my Ph.D. from the Department of Sociology at Columbia University.
-In my research I examine processes of social influence and how they shift people's behaviors and beliefs. Most of my current research examines social influence processes in contexts of health care and science.
+I am an Assistant Professor of Business Administration at the [Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. In my research I examine processes of social influence and how social influence shifts people's behaviors and beliefs. Most of my current research examines social influence processes in contexts of health care and science.
