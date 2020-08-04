@@ -15,10 +15,10 @@ authors = ["**Mathijs de Vaan**", "Saqib Mumtaz", "Abhishek Nagaraj", "Sameer Sr
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Working paper"
 #publication_short = "ISBI"
 
 # Abstract and optional shortened version.
