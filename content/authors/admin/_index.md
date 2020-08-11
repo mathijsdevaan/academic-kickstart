@@ -72,4 +72,4 @@ user_groups = ["Researchers", "Visitors"]
    link = "img/cv_de_vaan.pdf"
 
 +++
-I am an Assistant Professor of Business Administration at the [Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. In my research I examine processes of social influence and how social influence shifts people's behaviors and beliefs. Most of my current research examines social influence processes in contexts of health care and science.
+I am an Assistant Professor of Business Administration at the [Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. In my research I examine the networks that people and organizations are embedded in and how network relationships shift the behaviors of people and organizations. Most of my current research examines network effects and social influence processes in contexts of health care and science.
