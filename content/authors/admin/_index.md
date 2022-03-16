@@ -70,7 +70,7 @@ user_groups = ["Researchers", "Visitors"]
  [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "img/cv_de_vaan.pdf"
+   link = "img/cv_mathijs.pdf"
 
 +++
 I am an Assistant Professor of Business Administration at the [Haas School of Business](https://haas.berkeley.edu/faculty/de-vaan-mathijs/) at the University of California Berkeley. In my research I examine how people and organizations navigate economic exchange when there is uncertainty about the quality of the product or service that is provided. For example, how is CEO compensation set when it is unclear how much the CEO contributes to firm performance? How do we allocate research funding when there is disagreement about the quality of research proposals? How do physicians decide when to prescribe opioids when the benefit to the patient is not obvious? When patients receive medical advice from a health care professional, how do they decide to embrace this advice? In my research, I show that in the absence of accurate information about quality, people and organizations turn to other sources of information including endorsements from people in their social networks and status characteristics of the providers of the service. I strive to leverage institutional features of the settings I study to causally identify the effects of using those other sources of information.    
