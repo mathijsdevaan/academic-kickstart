@@ -25,6 +25,7 @@ email = ""
 interests = [
   "Social Networks",
   "Social Influence",
+  "Economic Sociology",
   "Medical Sociology",
   "Science of Science"
 ]
