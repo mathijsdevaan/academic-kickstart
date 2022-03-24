@@ -23,9 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Economic Sociology",
   "Social Networks",
   "Social Influence",
-  "Economic Sociology",
   "Medical Sociology",
   "Science of Science"
 ]
