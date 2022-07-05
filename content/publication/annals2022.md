@@ -1,6 +1,6 @@
 +++
 title = "Effect of Social Needs Case Management on Hospital Use Among Adult Medicaid Beneficiaries"
-date = "2022-07-05"
+date = "2022-07-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
