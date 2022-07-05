@@ -1,12 +1,10 @@
 +++
 title = "Effect of Social Needs Case Management on Hospital Use Among Adult Medicaid Beneficiaries"
-date = "2022-07-06"
+date = "2022-07-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-# authors = ["Daniel Brown", "Elizabeth Hernandez", "Sara Levin", "**Mathijs De Vaan**", "Mi-Ok Kim", "Chris Lynch", "Anna Roth", "Amanda Brewster"]
-
-authors = ["Test"]
+authors = ["Daniel Brown", "Elizabeth Hernandez", "Sara Levin", "**Mathijs De Vaan**", "Mi-Ok Kim", "Chris Lynch", "Anna Roth", "Amanda Brewster"]
 
 # Publication type.
 # Legend:
