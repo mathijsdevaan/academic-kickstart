@@ -38,7 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Sociology"
   institution = "Columbia University"
-  year = 2015
+  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
