@@ -39,7 +39,7 @@ featured = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0048733321001955"
+url_pdf = "img/Referral_triads.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
