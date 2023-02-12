@@ -1,6 +1,6 @@
 +++
 title = "Referral Triads"
-date = "2023-02-12"
+date = "2023-02-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -39,7 +39,7 @@ featured = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "img/Referral_triads.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
