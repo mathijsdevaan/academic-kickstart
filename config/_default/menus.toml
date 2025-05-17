@@ -15,8 +15,8 @@
 
 [[main]]
   name = "Work with me"
-  url: "#workwithme"
-  weight: 40
+  url = "#workwithme"
+  weight = 40
     
 #[[main]]
 #  name = "Contact"
