@@ -8,4 +8,4 @@ menu: main
 weight: 90
 ---
 
-I believe in creating collaborative, intellectually generous, and empowering relationships with students...
+Coming soon.
