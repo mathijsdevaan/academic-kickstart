@@ -1,5 +1,5 @@
 ---
-title: "Work with me"
+title: "Collaborations"
 date: 2025-05-16
 summary: "My approach to advising and mentoring students."
 type: page
