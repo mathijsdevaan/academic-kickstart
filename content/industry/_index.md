@@ -1,5 +1,5 @@
 ---
-title: "Consulting, Collaborating, Advising, and Speaking"
+title: "Industry partnerships"
 date: 2025-05-16
 summary: "My approach to advising and mentoring students."
 type: page
